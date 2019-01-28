@@ -1,4 +1,4 @@
-# Titanic Disaster:
+# Titanic Disaster
 Predicting Survival rates based on factual dataset 
 
 Workflow goals:
